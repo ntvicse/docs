@@ -1,4 +1,2 @@
-# Untitled
-
-/.gitbook/swagger.json
+# API Docs
 
