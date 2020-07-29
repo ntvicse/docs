@@ -1,10 +1,4 @@
-# API Docs
+# APIDocs
 
-
-
-```markup
-<swagger>swagger.json</swagger>
-```
-
-
+swagger.json
 
