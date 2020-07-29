@@ -1,5 +1,5 @@
 # Table of contents
 
 * [Home](README.md)
-* [APIDocs](api-docs.md)
+* [API Docs](api-docs.md)
 

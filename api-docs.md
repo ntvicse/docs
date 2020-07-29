@@ -1,4 +1,4 @@
-# APIDocs
+# API Docs
 
 swagger.json
 
